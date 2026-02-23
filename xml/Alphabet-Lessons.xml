@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xmllessons  LEVEL="1" >
+	<xmllesson ID="by shape">
+	<CON>  በ ሰ ሸ ለ አ ከ ኸ ቨ ዘ ዠ ነ ኘ ኀ ገ ፐ ተ ቸ የ ቀ ቐ ጠ ሐ ጨ ደ ጀ ጸ ጰ ሀ ሠ ረ ፈ</CON>
+	</xmllesson>
+	<xmllesson ID="Two Legs">
+	<CON>  በ ሰ ሸ ለ አ ከ ኸ ቨ ዘ ዠ</CON>
+	</xmllesson>
+	<xmllesson ID="One Leg">
+	<CON> ነ ኘ ኀ ገ ፐ ተ ቸ </CON>
+	</xmllesson>
+	<xmllesson ID="Three Legs">
+	<CON>ጠ ሐ ጨ</CON>
+	</xmllesson>
+	<xmllesson ID="Rounded">
+	<CON>ደ ጀ ጸ ጰ የ ቀ ቐ</CON>
+	</xmllesson>
+	<xmllesson ID="Facing Up-right">
+	<CON> ሀ ሠ ረ ፈ</CON>
+	</xmllesson>
+	<xmllesson ID=" Wa Sound">
+	<CON> ቧ ሷ ሿ ሏ ኳ ዃ ቯ ዟ ዧ ኗ ኟ ኋ ጓ ፗ ጧ ቿ ቋ ጧ ጯ ዷ ጇ ጿ ጷ ሧ ሯ ፏ </CON>
+	</xmllesson>
+	<xmllesson ID="W Sounds">
+    <CON> ኰ ዀ ቈ ጐ </CON>
+	</xmllesson>
+	<xmllesson ID="Explosive Sounds">
+    <CON> ቀ ጸ ጰ ሐ ጠ ጨ </CON>
+	</xmllesson>
+</xmllessons>
+	
