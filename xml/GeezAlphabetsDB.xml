@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?><alphs>
+<alph alphgeez = "0" alphname="0" english = "zero" hebrew = "אֶפֶס" arabic = "zero" alphakeys = "0" sndurl = "sounds/0.mp3" />
+<alph alphgeez = "1" alphname="1" english = "one" hebrew = "אחת" arabic = "one" alphakeys = "1" sndurl = "sounds/1.mp3" />
+<alph alphgeez = "2" alphname="2" english = "two" hebrew = "שתיים" arabic = "two" alphakeys = "2" sndurl = "sounds/2.mp3" />
+<alph alphgeez = "3" alphname="3" english = "three" hebrew = "שלוש" arabic = "three" alphakeys = "3" sndurl = "sounds/3.mp3" />
+<alph alphgeez = "4" alphname="4" english = "four" hebrew = "ארבע" arabic = "four" alphakeys = "4" sndurl = "sounds/4.mp3" />
+<alph alphgeez = "5" alphname="5" english = "five" hebrew = "חמש" arabic = "five" alphakeys = "5" sndurl = "sounds/5.mp3" />
+<alph alphgeez = "6" alphname="6" english = "six" hebrew = "שש" arabic = "six" alphakeys = "6" sndurl = "sounds/6.mp3" />
+<alph alphgeez = "7" alphname="7" english = "seven" hebrew = "שבע" arabic = "seven" alphakeys = "7" sndurl = "sounds/7.mp3" />
+<alph alphgeez = "8" alphname="8" english = "eight" hebrew = "שמונה" arabic = "eight" alphakeys = "8" sndurl = "sounds/8.mp3" />
+<alph alphgeez = "9" alphname="9" english = "nine" hebrew = "תשע" arabic = "nine" alphakeys = "9" sndurl = "sounds/9.mp3" />
+
+<alph alphgeez = "፩" alphname="1" english = "one" hebrew = "אחת" arabic = "one" alphakeys = "1\" sndurl = "sounds/፩.mp3" />
+<alph alphgeez = "፪" alphname="2" english = "gtwo" hebrew = "שתיים" arabic = "two" alphakeys = "2\" sndurl = "sounds/፪.mp3" />
+<alph alphgeez = "፫" alphname="3" english = "three" hebrew = "שלוש" arabic = "three" alphakeys = "3\" sndurl = "sounds/፫.mp3" />
+<alph alphgeez = "፬" alphname="4" english = "four" hebrew = "ארבע" arabic = "four" alphakeys = "4\" sndurl = "sounds/፬.mp3" />
+<alph alphgeez = "፭" alphname="5" english = "five" hebrew = "חמש" arabic = "five" alphakeys = "5\" sndurl = "sounds/፭.mp3" />
+<alph alphgeez = "፮" alphname="6" english = "six" hebrew = "שש" arabic = "six" alphakeys = "6\" sndurl = "sounds/፮.mp3" />
+<alph alphgeez = "፯" alphname="7" english = "seven" hebrew = "שבע" arabic = "seven" alphakeys = "7\" sndurl = "sounds/፯.mp3" />
+<alph alphgeez = "፰" alphname="8" english = "eight" hebrew = "שמונה" arabic = "eight" alphakeys = "8\" sndurl = "sounds/፰.mp3" />
+<alph alphgeez = "፱" alphname="9" english = "nine" hebrew = "תשע" arabic = "nine" alphakeys = "9\" sndurl = "sounds/፱.mp3" />
+
+<alph alphgeez = "፲" alphname="0" english = "ten" hebrew = "אֶפֶס" arabic = "zero" alphakeys = "1\0" sndurl = "sounds/፲.mp3" />
+<alph alphgeez = "፳" alphname="2" english = "twenty" hebrew = "שתיים" arabic = "two" alphakeys = "2\0" sndurl = "sounds/፳.mp3" />
+<alph alphgeez = "፴" alphname="3" english = "thirty" hebrew = "שלוש" arabic = "three" alphakeys = "3\" sndurl = "sounds/፴.mp3" />
+<alph alphgeez = "፵" alphname="4" english = "fourty" hebrew = "ארבע" arabic = "four" alphakeys = "4\0" sndurl = "sounds/፵.mp3" />
+<alph alphgeez = "፶" alphname="5" english = "fifty" hebrew = "חמש" arabic = "five" alphakeys = "5\0" sndurl = "sounds/፶.mp3" />
+<alph alphgeez = "፷" alphname="6" english = "sixty" hebrew = "שש" arabic = "six" alphakeys = "6\0" sndurl = "sounds/፷.mp3" />
+<alph alphgeez = "፸" alphname="7" english = "seventy" hebrew = "שבע" arabic = "seven" alphakeys = "7\0" sndurl = "sounds/፸.mp3" />
+<alph alphgeez = "፹" alphname="8" english = "eighty" hebrew = "שמונה" arabic = "eight" alphakeys = "8\0" sndurl = "sounds/፹.mp3" />
+<alph alphgeez = "፺" alphname="9" english = "ninety" hebrew = "תשע" arabic = "nine" alphakeys = "9\0" sndurl = "sounds/፺.mp3" />
+<alph alphgeez = "፻" alphname="9" english = "hundred" hebrew = "תשע" arabic = "nine" alphakeys = "1\00" sndurl = "sounds/፻.mp3" />
+<alph alphgeez = "፼" alphname="9" english = "thousand" hebrew = "תשע" arabic = "nine" alphakeys = "1\000" sndurl = "sounds/፼.mp3" />
+
+<alph alphgeez = " " alphname="space" english = "space" hebrew = "space" arabic = "space" alphakeys = " " sndurl = "sounds/ .mp3" />
+<alph alphgeez = "።" alphname="period" english = ";" hebrew = ";" arabic = ";" alphakeys = ";" sndurl = "sounds/።.mp3" />
+<alph alphgeez = "." alphname="netbi" english = "." hebrew = "." arabic = "." alphakeys = "." sndurl = "sounds/..mp3" />// unuused
+<alph alphgeez = "፡" alphname="colon" english = ":" hebrew = ":" arabic = ":" alphakeys = ":" sndurl = "sounds/፡.mp3" />
+<alph alphgeez = "?" alphname="question" english = "?" hebrew = "?" arabic = "?" alphakeys = "?" sndurl = "sounds/?.mp3" />
+<alph alphgeez = "!" alphname="exclam" english = "!" hebrew = "" arabic = "" alphakeys = "!" sndurl = "sounds/!.mp3" />
+<alph alphgeez = "$" alphname="dollar" english = "$" hebrew = "" arabic = "" alphakeys = "$" sndurl = "sounds/$.mp3" />
+<alph alphgeez = "%" alphname="percent" english = "%" hebrew = "" arabic = "" alphakeys = "%" sndurl = "sounds/%.mp3" />
+<alph alphgeez = "(" alphname="openBraket" english = "(" hebrew = "" arabic = "" alphakeys = "(" sndurl = "sounds/(.mp3" />
+<alph alphgeez = ")" alphname="closeBraket" english = ")" hebrew = "" arabic = "" alphakeys = ")" sndurl = "sounds/).mp3" />
+<alph alphgeez = "-" alphname="minus" english = "-" hebrew = "" arabic = "" alphakeys = "-" sndurl = "sounds/-.mp3" />
+<alph alphgeez = "+" alphname="plus" english = "+" hebrew = "" arabic = "" alphakeys = "+" sndurl = "sounds/+.mp3" />
+
+<alph alphgeez = "“" alphname="openQout" english = "“" hebrew = "" arabic = "" alphakeys = "“" sndurl = "sounds/“.mp3" />
+<alph alphgeez = "”" alphname="closeQout" english = "”" hebrew = "" arabic = "" alphakeys = "”" sndurl = "sounds/”.mp3" />
+
+// not working - suspect AlphabetLibrary is returning Incorrect name
+<alph alphgeez = "'" alphname="apost" english = "'" hebrew = "" arabic = "" alphakeys = "'" sndurl = "sounds/'.mp3" />
+//<alph alphgeez = "`" alphname="backapost" english = "`" hebrew = "" arabic = "" alphakeys = "`" sndurl = "sounds/`.mp3" />
+<alph alphgeez = '"' alphname="Qout" english = '"' alphakeys = '"' sndurl = "alphabets/question.mp3" />
+
+	<alph alphgeez = "ሀ" alphname="he" english = "he" hebrew = "הֵ" arabic = "هَي " alphakeys = "he" sndurl = "sounds/ሀ.mp3" />
+	<alph alphgeez = "ሁ" alphname="hu" english = "hoo" hebrew = "הֻ" arabic = "هُ" alphakeys = "hu" sndurl = "sounds/ሁ.mp3" />
+	<alph alphgeez = "ሂ" alphname="hi" english = "hee" hebrew = "הִ" arabic = "هِ" alphakeys = "hi" sndurl = "sounds/ሂ.mp3" />
+	<alph  alphgeez = "ሃ" alphname="ha" english = "ha" hebrew = "הַ" arabic = "هَ" alphakeys = "ha" sndurl = "sounds/ሃ.mp3" />
+	<alph  alphgeez = "ሄ" alphname="hie" english = "hie" hebrew = "הֶ" arabic = "هِيِ" alphakeys = "hie" sndurl = "sounds/ሄ.mp3" />
+	<alph  alphgeez = "ህ" alphname="h" english = "hi" hebrew = "הְ" arabic = "ه " alphakeys = "h" sndurl = "sounds/ህ.mp3" />
+	<alph  alphgeez = "ሆ" alphname="ho" english = "ho" hebrew = "הֹ" arabic = "هَوْ" alphakeys = "ho" sndurl = "sounds/ሆ.mp3" />
+	
+	<alph  alphgeez = "ለ" alphname="le" english = "le" hebrew = "לֵ" arabic = " لَيْ " alphakeys = "le" sndurl = "sounds/ለ.mp3" />
+	<alph  alphgeez = "ሉ" alphname="lu" english = "loo" hebrew = "לֻ" arabic = "لُ " alphakeys = "lu" sndurl = "sounds/ሉ.mp3" />
+	<alph  alphgeez = "ሊ" alphname="li" english = "lee" hebrew = "לִ" arabic = "لِ " alphakeys = "li" sndurl = "sounds/ሊ.mp3" />
+	<alph  alphgeez = "ላ" alphname="la" english = "la" hebrew = "לַ" arabic = "لَا " alphakeys = "la" sndurl = "sounds/ላ.mp3" />
+	<alph  alphgeez = "ሌ" alphname="lie" english = "lie" hebrew = "לֶ" arabic = "لْيِ " alphakeys = "lie" sndurl = "sounds/ሌ.mp3" />
+	<alph  alphgeez = "ል" alphname="l" english = "li" hebrew = "לְ" arabic = "لْ " alphakeys = "l" sndurl = "sounds/ል.mp3" />
+	<alph  alphgeez = "ሎ" alphname="lo" english = "lo" hebrew = "לֹ" arabic = "لو " alphakeys = "lo" sndurl = "sounds/ሎ.mp3" />
+	<alph  alphgeez = "ሏ" alphname="lua" english = "lwa" hebrew = "לוו" arabic = "لوا " alphakeys = "lua" sndurl = "sounds/ሏ.mp3" />
+
+
+	<alph  alphgeez = "ሐ" alphname="hhe" english = "H'e" hebrew = "הֵ" arabic = " حّيْ" alphakeys = "He" sndurl = "sounds/ሐ.mp3" />
+	<alph  alphgeez = "ሑ" alphname="hhu" english = "H'oo" hebrew = "מֻ" arabic = "حُ" alphakeys = "Hu" sndurl = "sounds/ሑ.mp3" />
+	<alph  alphgeez = "ሒ" alphname="hhi" english = "H'ee" hebrew = "הִ" arabic = "حِ" alphakeys = "Hi" sndurl = "sounds/ሒ.mp3" />
+	<alph  alphgeez = "ሓ" alphname="hha" english = "H'a" hebrew = "הַ" arabic = "حَ" alphakeys = "Ha" sndurl = "sounds/ሓ.mp3" />
+	<alph  alphgeez = "ሔ" alphname="hhie" english = "H'ie" hebrew = "הֶ" arabic = "حيي " alphakeys = "Hie" sndurl = "sounds/ሔ.mp3" />
+	<alph  alphgeez = "ሕ" alphname="hh" english = "H'i" hebrew = "הְ" arabic = "ح" alphakeys = "H" sndurl = "sounds/ሕ.mp3" />
+	<alph  alphgeez = "ሖ" alphname="hho" english = "H'o" hebrew = "הֹ" arabic = "حو" alphakeys = "Ho" sndurl = "sounds/ሖ.mp3" />
+
+	<alph  alphgeez = "መ" alphname="me" english = "me" hebrew = "מֵ" arabic = "مي" alphakeys = "me" sndurl = "sounds/መ.mp3" />
+	<alph  alphgeez = "ሙ" alphname="mu" english = "moo" hebrew = "מֻ" arabic = "مُ " alphakeys = "mu" sndurl = "sounds/ሙ.mp3" />
+	<alph  alphgeez = "ሚ" alphname="mi" english = "mee" hebrew = "מִ" arabic = "مِ " alphakeys = "mi" sndurl = "sounds/ሚ.mp3" />
+	<alph  alphgeez = "ማ" alphname="ma" english = "ma" hebrew = "מַ" arabic = "مَ " alphakeys = "ma" sndurl = "sounds/ማ.mp3" />
+	<alph  alphgeez = "ሜ" alphname="mie" english = "mie" hebrew = "מֶ" arabic = "مْيي " alphakeys = "mie" sndurl = "sounds/ሜ.mp3" />
+	<alph  alphgeez = "ም" alphname="m" english = "mi" hebrew = "מְ" arabic = "مْ " alphakeys = "m" sndurl = "sounds/ም.mp3" />
+	<alph  alphgeez = "ሞ" alphname="mo" english = "mo" hebrew = "מֹ" arabic = " مو" alphakeys = "mo" sndurl = "sounds/ሞ.mp3" />
+	<alph  alphgeez = "ሟ" alphname="mua" english = "mwa" hebrew = "מוו" arabic = "mwa" alphakeys = "mua" sndurl = "sounds/ሟ.mp3" />
+	
+
+	<alph  alphgeez = "ሰ" alphname="se" english = "se" hebrew = "שֵ" arabic = "سي" alphakeys = "se" sndurl = "sounds/ሰ.mp3" />
+	<alph  alphgeez = "ሱ" alphname="su" english = "soo" hebrew = "שֻ" arabic = "سُ" alphakeys = "su" sndurl = "sounds/ሱ.mp3" />
+	<alph  alphgeez = "ሲ" alphname="si" english = "see" hebrew = "שִ" arabic = "سِ" alphakeys = "si" sndurl = "sounds/ሲ.mp3" />
+	<alph  alphgeez = "ሳ" alphname="sa" english = "sa" hebrew = "שַ" arabic = "سَ" alphakeys = "sa" sndurl = "sounds/ሳ.mp3" />
+	<alph  alphgeez = "ሴ" alphname="sie" english = "sie" hebrew = "שֶ" arabic = "سيي" alphakeys = "sie" sndurl = "sounds/ሴ.mp3" />
+	<alph  alphgeez = "ስ" alphname="s" english = "si" hebrew = "שְ" arabic = "سْ" alphakeys = "s" sndurl = "sounds/ስ.mp3" />
+	<alph  alphgeez = "ሶ" alphname="so" english = "so" hebrew = "שֹ" arabic = "سو" alphakeys = "so" sndurl = "sounds/ሶ.mp3" />
+	<alph  alphgeez = "ሷ" alphname="sua" english = "swa" hebrew = "שוו" arabic = "سوا" alphakeys = "sua" sndurl = "sounds/ሷ.mp3" /> />
+	
+	<alph  alphgeez = "ረ" alphname="re" english = "re" hebrew = "רֵ" arabic = "ري" alphakeys = "re" sndurl = "sounds/ረ.mp3" />
+	<alph  alphgeez = "ሩ" alphname="ru" english = "roo" hebrew = "רֻ" arabic = "رُ" alphakeys = "ru" sndurl = "sounds/ሩ.mp3" />
+	<alph  alphgeez = "ሪ" alphname="ri" english = "ree" hebrew = "רִ" arabic = "رِ " alphakeys = "ri" sndurl = "sounds/ሪ.mp3" />
+	<alph  alphgeez = "ራ" alphname="ra" english = "ra" hebrew = "רַ" arabic = "رَ " alphakeys = "ra" sndurl = "sounds/ራ.mp3" />
+	<alph  alphgeez = "ሬ" alphname="rie" english = "rie" hebrew = "רֶ" arabic = "رْيي " alphakeys = "rie" sndurl = "sounds/ሬ.mp3" />
+	<alph  alphgeez = "ር" alphname="r" english = "ri" hebrew = "רְ" arabic = "رْ" alphakeys = "r" sndurl = "sounds/ር.mp3" />
+	<alph  alphgeez = "ሮ" alphname="ro" english = "ro" hebrew = "רֹ" arabic = "رو" alphakeys = "ro" sndurl = "sounds/ሮ.mp3" />
+	<alph  alphgeez = "ሯ" alphname="rua" english = "rwa" hebrew = "רוו" arabic = "روا" alphakeys = "rua" sndurl = "sounds/ሯ.mp3" />
+	
+		
+	<alph  alphgeez = "ሠ" alphname="s2e" english = "se" hebrew = "סֵ" arabic = "سي" alphakeys = "[e" sndurl = "sounds/ሠ.mp3" />
+	<alph  alphgeez = "ሡ" alphname="s2u" english = "soo" hebrew = "סֻ" arabic = "سُ" alphakeys = "[u" sndurl = "sounds/ሡ.mp3" />
+	<alph  alphgeez = "ሢ" alphname="s2i" english = "see" hebrew = "סִ" arabic = "سِ" alphakeys = "[i" sndurl = "sounds/ሢ.mp3" />
+	<alph  alphgeez = "ሣ" alphname="s2a" english = "sa" hebrew = "סַ" arabic = "سَ" alphakeys = "[a" sndurl = "sounds/ሣ.mp3" />
+	<alph  alphgeez = "ሤ" alphname="s2ie" english = "sie" hebrew = "סֶ" arabic = "سيي" alphakeys = "[ie" sndurl = "sounds/ሤ.mp3" />
+	<alph  alphgeez = "ሥ" alphname="s2" english = "si" hebrew = "סְ" arabic = "سْ" alphakeys = "[" sndurl = "sounds/ሥ.mp3" />
+	<alph  alphgeez = "ሦ" alphname="s2o" english = "so" hebrew = "סֹ" arabic = "سو" alphakeys = "[o" sndurl = "sounds/ሦ.mp3" />
+	
+	<alph  alphgeez = "ሸ" alphname="she" english = "she" hebrew = "שֵׁ" arabic = "شي" alphakeys = "Se" sndurl = "sounds/ሸ.mp3" />
+	<alph  alphgeez = "ሹ" alphname="shu" english = "shoo" hebrew = "שֻּׁ" arabic = "شُ " alphakeys = "Su" sndurl = "sounds/ሹ.mp3" />
+	<alph  alphgeez = "ሺ" alphname="shi" english = "shee" hebrew = "שִ" arabic = "شِ" alphakeys = "Si" sndurl = "sounds/ሺ.mp3" />
+	<alph  alphgeez = "ሻ" alphname="sha" english = "sha" hebrew = "שַׁ" arabic = "شَ " alphakeys = "Sa" sndurl = "sounds/ሻ.mp3" />
+	<alph  alphgeez = "ሼ" alphname="shie" english = "shie" hebrew = "שֶׁ" arabic = "شيي " alphakeys = "Sie" sndurl = "sounds/ሼ.mp3" />
+	<alph  alphgeez = "ሽ" alphname="sh" english = "shi" hebrew = "שְ" arabic = "شْ" alphakeys = "S" sndurl = "sounds/ሽ.mp3" />
+	<alph  alphgeez = "ሾ" alphname="sho" english = "sho" hebrew = "שֹ" arabic = "شو " alphakeys = "So" sndurl = "sounds/ሾ.mp3" />
+	<alph  alphgeez = "ሿ" alphname="shua" english = "shwa" hebrew = "שׁוו" arabic = "شوا" alphakeys = "Sua" sndurl = "sounds/ሿ.mp3" />
+	
+	<alph  alphgeez = "ቀ" alphname="qe" english = "qe" hebrew = "קֵ" arabic = "قي " alphakeys = "qe" sndurl = "sounds/ቀ.mp3" />
+	<alph  alphgeez = "ቁ" alphname="qu" english = "qoo" hebrew = "קֻ" arabic = "قُ" alphakeys = "qu" sndurl = "sounds/ቁ.mp3" />
+	<alph  alphgeez = "ቂ" alphname="qi" english = "qee" hebrew = "קִ" arabic = "قِ" alphakeys = "qi" sndurl = "sounds/ቂ.mp3" />
+	<alph  alphgeez = "ቃ" alphname="qa" english = "qa" hebrew = "קַ" arabic = "قَ" alphakeys = "qa" sndurl = "sounds/ቃ.mp3" />
+	<alph  alphgeez = "ቄ" alphname="qie" english = "qie" hebrew = "קֶ" arabic = "قيي" alphakeys = "qie" sndurl = "sounds/ቄ.mp3" />
+	<alph  alphgeez = "ቅ" alphname="q" english = "qi" hebrew = "קְ" arabic = "قْ " alphakeys = "q" sndurl = "sounds/ቅ.mp3" />
+	<alph  alphgeez = "ቆ" alphname="qo" english = "qo" hebrew = "קֹ" arabic = "قو " alphakeys = "qo" sndurl = "sounds/ቆ.mp3" />
+	
+	<alph  alphgeez = "ቐ" alphname="qhe" english = "qhe" hebrew = "קֵ" arabic = "غي " alphakeys = "Qe" sndurl = "sounds/ቐ.mp3" />
+	<alph  alphgeez = "ቑ" alphname="qhu" english = "qhoo" hebrew = "קֻ" arabic = "غُ " alphakeys = "Qu" sndurl = "sounds/ቑ.mp3" />
+	<alph  alphgeez = "ቒ" alphname="qhi" english = "qhee" hebrew = "קִ" arabic = "غِ" alphakeys = "Qi" sndurl = "sounds/ቒ.mp3" />
+	<alph  alphgeez = "ቓ" alphname="qha" english = "qha" hebrew = "קַ" arabic = "غَ " alphakeys = "Qa" sndurl = "sounds/ቓ.mp3" />
+	<alph  alphgeez = "ቔ" alphname="qhie" english = "qhie" hebrew = "קֶ" arabic = "غيي" alphakeys = "Qie" sndurl = "sounds/ቔ.mp3" />
+	<alph  alphgeez = "ቕ" alphname="qh" english = "qhi" hebrew = "קְ" arabic = "غْ" alphakeys = "Q" sndurl = "sounds/ቕ.mp3" />
+	<alph  alphgeez = "ቖ" alphname="qho" english = "qho" hebrew = "ק" arabic = "غو" alphakeys = "Qo" sndurl = "sounds/ቖ.mp3" />
+		
+	<alph  alphgeez = "በ" alphname="be" english = "be" hebrew = "בֵּ" arabic = "بي " alphakeys = "be" sndurl = "sounds/በ.mp3" />
+	<alph  alphgeez = "ቡ" alphname="bu" english = "boo" hebrew = "בֻ" arabic = "بُ" alphakeys = "bu" sndurl = "sounds/ቡ.mp3" />
+	<alph  alphgeez = "ቢ" alphname="bi" english = "bee" hebrew = "בִּ" arabic = "بِ" alphakeys = "bi" sndurl = "sounds/ቢ.mp3" />
+	<alph  alphgeez = "ባ" alphname="ba" english = "ba" hebrew = "בַּ" arabic = "بَا" alphakeys = "ba" sndurl = "sounds/ባ.mp3" />
+	<alph  alphgeez = "ቤ" alphname="bie" english = "bie" hebrew = "בֶּ" arabic = "بِيي" alphakeys = "bie" sndurl = "sounds/ቤ.mp3" />
+	<alph  alphgeez = "ብ" alphname="b" english = "bi" hebrew = "בְּ" arabic = "بْ" alphakeys = "b" sndurl = "sounds/ብ.mp3" />
+	<alph  alphgeez = "ቦ" alphname="bo" english = "bo" hebrew = "בֹ" arabic = "بو" alphakeys = "bo" sndurl = "sounds/ቦ.mp3" />
+	<alph  alphgeez = "ቧ" alphname="bua" english = "bua" hebrew = "בוו" arabic = "بوا" alphakeys = "bua" sndurl = "sounds/ቧ.mp3" />
+	
+		<alph  alphgeez = "ተ" alphname="te" english = "te" hebrew = "תֵ" arabic = "تي" alphakeys = "te" sndurl = "sounds/ተ.mp3" />
+	<alph  alphgeez = "ቱ" alphname="tu" english = "too" hebrew = "תֻ" arabic = "تُ " alphakeys = "tu" sndurl = "sounds/ቱ.mp3" />
+	<alph  alphgeez = "ቲ" alphname="ti" english = "tee" hebrew = "תִ" arabic = "تِ " alphakeys = "ti" sndurl = "sounds/ቲ.mp3" />
+	<alph  alphgeez = "ታ" alphname="ta" english = "ta" hebrew = "תַ" arabic = "تَ " alphakeys = "ta" sndurl = "sounds/ታ.mp3" />
+	<alph  alphgeez = "ቴ" alphname="tie" english = "tie" hebrew = "תֶ" arabic = "تِيي " alphakeys = "tie" sndurl = "sounds/ቴ.mp3" />
+	<alph  alphgeez = "ት" alphname="t" english = "ti" hebrew = "תְ" arabic = "تْ" alphakeys = "t" sndurl = "sounds/ት.mp3" />
+	<alph  alphgeez = "ቶ" alphname="to" english = "to" hebrew = "תֹ" arabic = "تو " alphakeys = "to" sndurl = "sounds/ቶ.mp3" />
+	<alph  alphgeez = "ቷ" alphname="tua" english = "twa" hebrew = "תוו" arabic = "توا" alphakeys = "tua" sndurl = "sounds/ቷ.mp3" />
+	
+	<alph  alphgeez = "ቸ" alphname="che" english = "che" hebrew = "׳צֵ" arabic = "تشي" alphakeys = "ce" sndurl = "sounds/ቸ.mp3" />
+	<alph  alphgeez = "ቹ" alphname="chu" english = "choo" hebrew = "צֻ׳" arabic = "تشو " alphakeys = "cu" sndurl = "sounds/ቹ.mp3" />
+	<alph  alphgeez = "ቺ" alphname="chi" english = "chee" hebrew = "צִ׳" arabic = "تشي " alphakeys = "ci" sndurl = "sounds/ቺ.mp3" />
+	<alph  alphgeez = "ቻ" alphname="cha" english = "cha" hebrew = "צַ׳" arabic = "تشا " alphakeys = "ca" sndurl = "sounds/ቻ.mp3" />
+	<alph  alphgeez = "ቼ" alphname="chie" english = "chie" hebrew = "צֶ׳" arabic = "تشيي " alphakeys = "cie" sndurl = "sounds/ቼ.mp3" />
+	<alph  alphgeez = "ች" alphname="ch" english = "chi" hebrew = "צְ׳" arabic = "تش " alphakeys = "c" sndurl = "sounds/ች.mp3" />
+	<alph  alphgeez = "ቾ" alphname="cho" english = "cho" hebrew = "צֹ׳" arabic = "تشو " alphakeys = "co" sndurl = "sounds/ቾ.mp3" />
+	<alph  alphgeez = "ቿ" alphname="chua" english = "chwa" hebrew = "'צוו" arabic = "chwa" alphakeys = "cua" sndurl = "sounds/ቿ.mp3" />
+	
+	<alph  alphgeez = "ኀ" alphname="h2e" english = "he" hebrew = "הֵ" arabic = "هَي" alphakeys = "]e" sndurl = "sounds/ኀ.mp3" />
+	<alph  alphgeez = "ኁ" alphname="h2u" english = "hoo" hebrew = "הֻ" arabic = "هُ" alphakeys = "]u" sndurl = "sounds/ኁ.mp3" />
+	<alph  alphgeez = "ኂ" alphname="h2i" english = "hee" hebrew = "הִ" arabic = "هِ" alphakeys = "]i" sndurl = "sounds/ኂ.mp3" />
+	<alph  alphgeez = "ኃ" alphname="h2a" english = "ha" hebrew = "הַ" arabic = "هَ" alphakeys = "]a" sndurl = "sounds/ኃ.mp3" />
+	<alph  alphgeez = "ኄ" alphname="h2ie" english = "hie" hebrew = "ה" arabic = "هِيِ" alphakeys = "]ie" sndurl = "sounds/ኄ.mp3" />
+	<alph  alphgeez = "ኅ" alphname="h2" english = "hi" hebrew = "הְ" arabic = "ه" alphakeys = "]" sndurl = "sounds/ኅ.mp3" />
+	<alph  alphgeez = "ኆ" alphname="h2o" english = "ho" hebrew = "הֹ" arabic = "هَوْ" alphakeys = "]o" sndurl = "sounds/ኆ.mp3" />
+	
+	
+	<alph  alphgeez = "ነ" alphname="ne" english = "ne" hebrew = "נֵ" arabic = "ني " alphakeys = "ne" sndurl = "sounds/ነ.mp3" />
+	<alph  alphgeez = "ኑ" alphname="nu" english = "noo" hebrew = "נֻ" arabic = "نُ " alphakeys = "nu" sndurl = "sounds/ኑ.mp3" />
+	<alph  alphgeez = "ኒ" alphname="ni" english = "nee" hebrew = "נִ" arabic = "نِ " alphakeys = "ni" sndurl = "sounds/ኒ.mp3" />
+	<alph  alphgeez = "ና" alphname="na" english = "na" hebrew = "נַ" arabic = "نَ " alphakeys = "na" sndurl = "sounds/ና.mp3" />
+	<alph  alphgeez = "ኔ" alphname="nie" english = "nie" hebrew = "נֶ" arabic = "نيي " alphakeys = "nie" sndurl = "sounds/ኔ.mp3" />
+	<alph  alphgeez = "ን" alphname="n" english = "ni" hebrew = "נְ" arabic = "نْ " alphakeys = "n" sndurl = "sounds/ን.mp3" />
+	<alph  alphgeez = "ኖ" alphname="no" english = "no" hebrew = "נֹ" arabic = "نو  " alphakeys = "no" sndurl = "sounds/ኖ.mp3" />
+	<alph  alphgeez = "ኗ" alphname="nua" english = "nwa" hebrew = "נוו" arabic = "نوا" alphakeys = "nua" sndurl = "sounds/ኗ.mp3" />
+	
+	
+	<alph  alphgeez = "ኘ" alphname="gne" english = "gne" hebrew = "׳נֵ" arabic = "نيي " alphakeys = "Ne" sndurl = "sounds/ኘ.mp3" />
+	<alph  alphgeez = "ኙ" alphname="gnu" english = "gnoo" hebrew = "׳נֻ" arabic = " نيو " alphakeys = "Nu" sndurl = "sounds/ኙ.mp3" />
+	<alph  alphgeez = "ኚ" alphname="gni" english = "gnee" hebrew = "׳נִ" arabic = "نيي " alphakeys = "Ni" sndurl = "sounds/ኚ.mp3" />
+	<alph  alphgeez = "ኛ" alphname="gna" english = "gna" hebrew = "׳נַ" arabic = "نيا " alphakeys = "Na" sndurl = "sounds/ኛ.mp3" />
+	<alph  alphgeez = "ኜ" alphname="gnie" english = "gnie" hebrew = "׳נֶ" arabic = " نييه " alphakeys = "Nie" sndurl = "sounds/ኜ.mp3" />
+	<alph  alphgeez = "ኝ" alphname="gn" english = "gni" hebrew = "׳נְ" arabic = "ن " alphakeys = "N" sndurl = "sounds/ኝ.mp3" />
+	<alph  alphgeez = "ኞ" alphname="gno" english = "gno" hebrew = "׳נֹ" arabic = " نو " alphakeys = "No" sndurl = "sounds/ኞ.mp3" />
+	<alph  alphgeez = "ኟ" alphname="gnua" english = "gnwa" hebrew = "נוו" arabic = "نوا" alphakeys = "Nua" sndurl = "sounds/ኟ.mp3" />
+	
+	<alph  alphgeez = "አ" alphname="ee" english = "a" hebrew = "אֵָ" arabic = "e" alphakeys = "Ee" sndurl = "sounds/አ.mp3" />
+	<alph  alphgeez = "ኡ" alphname="eu" english = "oo" hebrew = "אֻ" arabic = "oo" alphakeys = "Eu" sndurl = "sounds/ኡ.mp3" />
+	<alph  alphgeez = "ኢ" alphname="ei" english = "ee" hebrew = "אִ" arabic = "ee" alphakeys = "Ei" sndurl = "sounds/ኢ.mp3" />
+	<alph  alphgeez = "ኣ" alphname="ea" english = "aa" hebrew = "אַ" arabic = "a" alphakeys = "Ea" sndurl = "sounds/ኣ.mp3" />
+	<alph  alphgeez = "ኤ" alphname="eie" english = "ie" hebrew = "אֶ" arabic = "ie" alphakeys = "Eie" sndurl = "sounds/ኤ.mp3" />
+	<alph  alphgeez = "እ" alphname="e" english = "ei" hebrew = "אְ" arabic = "e" alphakeys = "E" sndurl = "sounds/እ.mp3" />
+	<alph  alphgeez = "ኦ" alphname="eo" english = "oi" hebrew = "אֹ" arabic = "o" alphakeys = "Eo" sndurl = "sounds/ኦ.mp3" />
+	<alph  alphgeez = "ኧ" alphname="eue" english = "ae" hebrew = "אֵ" arabic = "e" alphakeys = "Eue" sndurl = "sounds/ኧ.mp3" />
+	
+	<alph  alphgeez = "ከ" alphname="ke" english = "ke" hebrew = "כֵ" arabic = "كـى " alphakeys = "ke" sndurl = "sounds/ከ.mp3" />
+	<alph  alphgeez = "ኩ" alphname="ku" english = "koo" hebrew = "כֻ" arabic = " كُ " alphakeys = "ku" sndurl = "sounds/ኩ.mp3" />
+	<alph  alphgeez = "ኪ" alphname="ki" english = "kee" hebrew = "כִ" arabic = " كِ " alphakeys = "ki" sndurl = "sounds/ኪ.mp3" />
+	<alph  alphgeez = "ካ" alphname="ka" english = "ka" hebrew = "כַ" arabic = " كَ " alphakeys = "ka" sndurl = "sounds/ካ.mp3" />
+	<alph  alphgeez = "ኬ" alphname="kie" english = "kie" hebrew = "כֶ" arabic = "كييه " alphakeys = "kie" sndurl = "sounds/ኬ.mp3" />
+	<alph  alphgeez = "ክ" alphname="k" english = "ki" hebrew = "כְ" arabic = " كْ " alphakeys = "k" sndurl = "sounds/ክ.mp3" />
+	<alph  alphgeez = "ኮ" alphname="ko" english = "ko" hebrew = "כֹ" arabic = " كـو" alphakeys = "ko" sndurl = "sounds/ኮ.mp3" />
+	
+	<alph  alphgeez = "ኸ" alphname="khe" english = "khe" hebrew = "חֵ" arabic = " خـي " alphakeys = "Ke" sndurl = "sounds/ኸ.mp3" />
+	<alph  alphgeez = "ኹ" alphname="khu" english = "khoo" hebrew = "חֻּ" arabic = "خُ" alphakeys = "Ku" sndurl = "sounds/ኹ.mp3" />
+	<alph  alphgeez = "ኺ" alphname="khi" english = "khee" hebrew = "חִּ" arabic = "خِ " alphakeys = "Ki" sndurl = "sounds/ኺ.mp3" />
+	<alph  alphgeez = "ኻ" alphname="kha" english = "kha" hebrew = "חַּ" arabic = "خَ " alphakeys = "Ka" sndurl = "sounds/ኻ.mp3" />
+	<alph  alphgeez = "ኼ" alphname="khie" english = "khie" hebrew = "חֶּ" arabic = "خيه" alphakeys = "Kie" sndurl = "sounds/ኼ.mp3" />
+	<alph  alphgeez = "ኽ" alphname="kh" english = "khi" hebrew = "חְ" arabic = "خْ " alphakeys = "K" sndurl = "sounds/ኽ.mp3" />
+	<alph  alphgeez = "ኾ" alphname="kho" english = "kho" hebrew = "חֹ" arabic = "خو" alphakeys = "Ko" sndurl = "sounds/ኾ.mp3" />
+	
+	<alph  alphgeez = "ወ" alphname="we" english = "we" hebrew = "וו" arabic = "وى " alphakeys = "we" sndurl = "sounds/ወ.mp3" />
+	<alph  alphgeez = "ዉ" alphname="wu" english = "woo" hebrew = "ווֻ" arabic = "وُ" alphakeys = "wu" sndurl = "sounds/ዉ.mp3" />
+	<alph  alphgeez = "ዊ" alphname="wi" english = "wee" hebrew = "ווִ" arabic = " وِ " alphakeys = "wi" sndurl = "sounds/ዊ.mp3" />
+	<alph  alphgeez = "ዋ" alphname="wa" english = "wa" hebrew = "ווַ" arabic = "وَ " alphakeys = "wa" sndurl = "sounds/ዋ.mp3" />
+	<alph  alphgeez = "ዌ" alphname="wie" english = "wie" hebrew = "ווֶ" arabic = "ويه" alphakeys = "wie" sndurl = "sounds/ዌ.mp3" />
+	<alph  alphgeez = "ው" alphname="w" english = "wi" hebrew = "ווְ" arabic = " وْ" alphakeys = "w" sndurl = "sounds/ው.mp3" />
+	<alph  alphgeez = "ዎ" alphname="wo" english = "wo" hebrew = "ווֹ" arabic = " وو" alphakeys = "wo" sndurl = "sounds/ዎ.mp3" />
+	
+
+	<alph  alphgeez = "ዐ" alphname="oe" english = "'e" hebrew = "עֵ" arabic = "عى" alphakeys = "Oe" sndurl = "sounds/ዐ.mp3" />
+	<alph  alphgeez = "ዑ" alphname="ou" english = "'oo" hebrew = "עֻ" arabic = "عُ" alphakeys = "Ou" sndurl = "sounds/ዑ.mp3" />
+	<alph  alphgeez = "ዒ" alphname="oi" english = "'ee" hebrew = "עִ" arabic = "عِ" alphakeys = "Oi" sndurl = "sounds/ዒ.mp3" />
+	<alph  alphgeez = "ዓ" alphname="oa" english = "'a" hebrew = "עַ" arabic = "عَ" alphakeys = "Oa" sndurl = "sounds/ዓ.mp3" />
+	<alph  alphgeez = "ዔ" alphname="oie" english = "'ie" hebrew = "עֶ" arabic = "عييه" alphakeys = "Oie" sndurl = "sounds/ዔ.mp3" />
+	<alph  alphgeez = "ዕ" alphname="o" english = "'i" hebrew = "עְ" arabic = "عْ" alphakeys = "O" sndurl = "sounds/ዕ.mp3" />
+	<alph  alphgeez = "ዖ" alphname="oo" english = "'o" hebrew = "עְ" arabic = "عو" alphakeys = "Oo" sndurl = "sounds/ዖ.mp3" />
+	
+
+	<alph  alphgeez = "ዘ" alphname="ze" english = "ze" hebrew = "זֵ" arabic = "زى" alphakeys = "ze" sndurl = "sounds/ዘ.mp3" />
+	<alph  alphgeez = "ዙ" alphname="zu" english = "zoo" hebrew = "זֻ" arabic = "زُ " alphakeys = "zu" sndurl = "sounds/ዙ.mp3" />
+	<alph  alphgeez = "ዚ" alphname="zi" english = "zee" hebrew = "זִ" arabic = "زِ" alphakeys = "zi" sndurl = "sounds/ዚ.mp3" />
+	<alph  alphgeez = "ዛ" alphname="za" english = "za" hebrew = "זַ" arabic = "زَ " alphakeys = "za" sndurl = "sounds/ዛ.mp3" />
+	<alph  alphgeez = "ዜ" alphname="zie" english = "zie" hebrew = "זֶ" arabic = "زييه " alphakeys = "zie" sndurl = "sounds/ዜ.mp3" />
+	<alph  alphgeez = "ዝ" alphname="z" english = "zi" hebrew = "זְ" arabic = "زْ " alphakeys = "z" sndurl = "sounds/ዝ.mp3" />
+	<alph  alphgeez = "ዞ" alphname="zo" english = "zo" hebrew = "זְ" arabic = "زو " alphakeys = "zo" sndurl = "sounds/ዞ.mp3" />
+	<alph  alphgeez = "ዟ" alphname="zua" english = "zwa" hebrew = "זוו" arabic = "زوا" alphakeys = "zua" sndurl = "sounds/ዟ.mp3" />
+	
+	<alph  alphgeez = "ዠ" alphname="zhe" english = "zhe" hebrew = "'זֵ" arabic = "شي " alphakeys = "Ze" sndurl = "sounds/ዠ.mp3" />
+	<alph  alphgeez = "ዡ" alphname="zhu" english = "zhoo" hebrew = "'זֻ " arabic = "تشو " alphakeys = "Zu" sndurl = "sounds/ዡ.mp3" />
+	<alph  alphgeez = "ዢ" alphname="zhi" english = "zhee" hebrew = "'זִ" arabic = "تشي  " alphakeys = "Zi" sndurl = "sounds/ዢ.mp3" />
+	<alph  alphgeez = "ዣ" alphname="zha" english = "zha" hebrew = "'זַ" arabic = "تشا  " alphakeys = "Za" sndurl = "sounds/ዣ.mp3" />
+	<alph  alphgeez = "ዤ" alphname="zhie" english = "zhie" hebrew = "'זֶ" arabic = "تشيه " alphakeys = "Zie" sndurl = "sounds/ዤ.mp3" />
+	<alph  alphgeez = "ዥ" alphname="zh" english = "zhi" hebrew = "'זְ" arabic = "تش  " alphakeys = "Z" sndurl = "sounds/ዥ.mp3" />
+	<alph  alphgeez = "ዦ" alphname="zho" english = "zho" hebrew = "'זְ" arabic = "تشو  " alphakeys = "Zo" sndurl = "sounds/ዦ.mp3" />
+	<alph  alphgeez = "ዧ" alphname="zhua" english = "zhwa" hebrew = "'זוו" arabic = "تشوا " alphakeys = "Zua" sndurl = "sounds/ዧ.mp3" />
+	
+	<alph  alphgeez = "የ" alphname="ye" english = "ye" hebrew = "יֵ" arabic = "يي  " alphakeys = "ye" sndurl = "sounds/የ.mp3" />
+	<alph  alphgeez = "ዩ" alphname="yu" english = "yoo" hebrew = "יֻ" arabic = "يُ  " alphakeys = "yu" sndurl = "sounds/ዩ.mp3" />
+	<alph  alphgeez = "ዪ" alphname="yi" english = "yee" hebrew = "יִ" arabic = "يِ " alphakeys = "yi" sndurl = "sounds/ዪ.mp3" />
+	<alph  alphgeez = "ያ" alphname="ya" english = "ya" hebrew = "יַ" arabic = "يَا " alphakeys = "ya" sndurl = "sounds/ያ.mp3" />
+	<alph  alphgeez = "ዬ" alphname="yie" english = "yie" hebrew = "יֶ" arabic = "ييه " alphakeys = "yie" sndurl = "sounds/ዬ.mp3" />
+	<alph  alphgeez = "ይ" alphname="y" english = "yi" hebrew = "יְ" arabic = "يْ " alphakeys = "y" sndurl = "sounds/ይ.mp3" />
+	<alph  alphgeez = "ዮ" alphname="yo" english = "yo" hebrew = "יְ" arabic = "يو" alphakeys = "yo" sndurl = "sounds/ዮ.mp3" />
+	
+
+	<alph  alphgeez = "ደ" alphname="de" english = "de" hebrew = "דֵ" arabic = "دي  " alphakeys = "de" sndurl = "sounds/ደ.mp3" />
+	<alph  alphgeez = "ዱ" alphname="du" english = "doo" hebrew = "דֻ" arabic = "دُ " alphakeys = "du" sndurl = "sounds/ዱ.mp3" />
+	<alph  alphgeez = "ዲ" alphname="di" english = "dee" hebrew = "דִ" arabic = "دِ" alphakeys = "di" sndurl = "sounds/ዲ.mp3" />
+	<alph  alphgeez = "ዳ" alphname="da" english = "da" hebrew = "דַ" arabic = "دَ " alphakeys = "da" sndurl = "sounds/ዳ.mp3" />
+	<alph  alphgeez = "ዴ" alphname="die" english = "die" hebrew = "דֶ" arabic = "دييه " alphakeys = "die" sndurl = "sounds/ዴ.mp3" />
+	<alph  alphgeez = "ድ" alphname="d" english = "di" hebrew = "דְ" arabic = "دْ" alphakeys = "d" sndurl = "sounds/ድ.mp3" />
+	<alph  alphgeez = "ዶ" alphname="do" english = "do" hebrew = "דְ" arabic = "دو " alphakeys = "do" sndurl = "sounds/ዶ.mp3" />
+	<alph  alphgeez = "ዷ" alphname="dua" english = "dwa" hebrew = "דוו" arabic = "دوا" alphakeys = "dua" sndurl = "sounds/ዷ.mp3" />
+	
+	
+	<alph  alphgeez = "ዸ" alphname="De" english = "De" hebrew = "דֵ" arabic = "دي" alphakeys = "De" sndurl = "sounds/ዸ.mp3" />
+	<alph  alphgeez = "ዹ" alphname="Du" english = "Doo" hebrew = "דֻ" arabic = "دُ" alphakeys = "Du" sndurl = "sounds/ዹ.mp3" />
+	<alph  alphgeez = "ዺ" alphname="Di" english = "Dee" hebrew = "דִ" arabic = "دِ" alphakeys = "Di" sndurl = "sounds/ዺ.mp3" />
+	<alph  alphgeez = "ዻ" alphname="Da" english = "Da" hebrew = "דַ" arabic = "دَ" alphakeys = "Da" sndurl = "sounds/ዻ.mp3" />
+	<alph  alphgeez = "ዼ" alphname="Die" english = "Die" hebrew = "דֶ" arabic = "دييه" alphakeys = "Die" sndurl = "sounds/ዼ.mp3" />
+	<alph  alphgeez = "ዽ" alphname="D" english = "Di" hebrew = "דְ" arabic = "دْ" alphakeys = "D" sndurl = "sounds/ዽ.mp3" />
+	<alph  alphgeez = "ዾ" alphname="Do" english = "Do" hebrew = "דְ" arabic = "دْ" alphakeys = "Do" sndurl = "sounds/ዾ.mp3" />
+	<alph  alphgeez = "ዿ" alphname="Dua" english = "Dwa" hebrew = "דוו" arabic = "دوا" alphakeys = "Dua" sndurl = "sounds/ዿ.mp3" />
+	
+	<alph  alphgeez = "ጀ" alphname="je" english = "je" hebrew = "׳גֵ" arabic = "جي " alphakeys = "je" sndurl = "sounds/ጀ.mp3" />
+	<alph  alphgeez = "ጁ" alphname="ju" english = "joo" hebrew = "גֻ׳" arabic = "جُ " alphakeys = "ju" sndurl = "sounds/ጁ.mp3" />
+	<alph  alphgeez = "ጂ" alphname="ji" english = "jee" hebrew = "גִ׳" arabic = "جُ  " alphakeys = "ji" sndurl = "sounds/ጂ.mp3" />
+	<alph  alphgeez = "ጃ" alphname="ja" english = "ja" hebrew = "גַ׳" arabic = "جَا " alphakeys = "ja" sndurl = "sounds/ጃ.mp3" />
+	<alph  alphgeez = "ጄ" alphname="jie" english = "jie" hebrew = "גֶ׳" arabic = " جييه  " alphakeys = "jie" sndurl = "sounds/ጄ.mp3" />
+	<alph  alphgeez = "ጅ" alphname="j" english = "ji" hebrew = "גְ׳" arabic = "جْ " alphakeys = "j" sndurl = "sounds/ጅ.mp3" />
+	<alph  alphgeez = "ጆ" alphname="jo" english = "jo" hebrew = "גְ׳" arabic = "جو " alphakeys = "jo" sndurl = "sounds/ጆ.mp3" />
+	<alph  alphgeez = "ጇ" alphname="jua" english = "jwa" hebrew = "'גוו" arabic = "جوا" alphakeys = "jua" sndurl = "sounds/ጇ.mp3" />
+	
+	
+	<alph  alphgeez = "ገ" alphname="ge" english = "ge" hebrew = "גֵ" arabic = "جى " alphakeys = "ge" sndurl = "sounds/ገ.mp3" />
+	<alph  alphgeez = "ጉ" alphname="gu" english = "goo" hebrew = "גֻ" arabic = "جُ " alphakeys = "gu" sndurl = "sounds/ጉ.mp3" />
+	<alph  alphgeez = "ጊ" alphname="gi" english = "gee" hebrew = "גִ" arabic = "جِ" alphakeys = "gi" sndurl = "sounds/ጊ.mp3" />
+	<alph  alphgeez = "ጋ" alphname="ga" english = "ga" hebrew = "גַ" arabic = "جَا " alphakeys = "ga" sndurl = "sounds/ጋ.mp3" />
+	<alph  alphgeez = "ጌ" alphname="gie" english = "gie" hebrew = "גֶ" arabic = "جييه " alphakeys = "gie" sndurl = "sounds/ጌ.mp3" />
+	<alph  alphgeez = "ግ" alphname="g" english = "gi" hebrew = "גְ" arabic = "جْ  " alphakeys = "g" sndurl = "sounds/ግ.mp3" />
+	<alph  alphgeez = "ጎ" alphname="go" english = "go" hebrew = "גְ" arabic = "جو" alphakeys = "go" sndurl = "sounds/ጎ.mp3" />
+	
+	<alph  alphgeez = "ጘ" alphname="Ge" english = "Ge" hebrew = "גֵ" arabic = "جى " alphakeys = "Ge" sndurl = "sounds/ጘ.mp3" />
+	<alph  alphgeez = "ጙ" alphname="Gu" english = "Goo" hebrew = "גֻ" arabic = "جُ " alphakeys = "Gu" sndurl = "sounds/ጙ.mp3" />
+	<alph  alphgeez = "ጚ" alphname="Gi" english = "Gee" hebrew = "גִ" arabic = "جِ" alphakeys = "Gi" sndurl = "sounds/ጚ.mp3" />
+	<alph  alphgeez = "ጛ" alphname="Ga" english = "Ga" hebrew = "גַ" arabic = "جَا " alphakeys = "Ga" sndurl = "sounds/ጛ.mp3" />
+	<alph  alphgeez = "ጜ" alphname="Gie" english = "Gie" hebrew = "גֶ" arabic = "جييه " alphakeys = "Gie" sndurl = "sounds/ጜ.mp3" />
+	<alph  alphgeez = "ጝ" alphname="G" english = "Gi" hebrew = "ג" arabic = "جْ  " alphakeys = "G" sndurl = "sounds/ጝ.mp3" />
+	<alph  alphgeez = "ጞ" alphname="Go" english = "Go" hebrew = "גְ" arabic = "جو" alphakeys = "Go" sndurl = "sounds/ጞ.mp3" />
+	
+	<alph  alphgeez = "ጠ" alphname="tte" english = "T'e" hebrew = "טֵ" arabic = "طي " alphakeys = "Te" sndurl = "sounds/ጠ.mp3" />
+	<alph  alphgeez = "ጡ" alphname="ttu" english = "T'oo" hebrew = "טֻ" arabic = "طُ " alphakeys = "Tu" sndurl = "sounds/ጡ.mp3" />
+	<alph  alphgeez = "ጢ" alphname="tti" english = "T'ee" hebrew = "טִ" arabic = "طِ " alphakeys = "Ti" sndurl = "sounds/ጢ.mp3" />
+	<alph  alphgeez = "ጣ" alphname="tta" english = "T'a" hebrew = "טַ" arabic = "طَ" alphakeys = "Ta" sndurl = "sounds/ጣ.mp3" />
+	<alph  alphgeez = "ጤ" alphname="ttie" english = "T'ie" hebrew = "טֶ" arabic = "طِيِيْ " alphakeys = "Tie" sndurl = "sounds/ጤ.mp3" />
+	<alph  alphgeez = "ጥ" alphname="tt" english = "T'i" hebrew = "טְ" arabic = "طْ" alphakeys = "T" sndurl = "sounds/ጥ.mp3" />
+	<alph  alphgeez = "ጦ" alphname="tto" english = "T'o" hebrew = "טְ" arabic = "طو" alphakeys = "To" sndurl = "sounds/ጦ.mp3" />
+	<alph  alphgeez = "ጧ" alphname="ttua" english = "T'wa" hebrew = "טוו" arabic = "طوا" alphakeys = "Tua" sndurl = "sounds/ጧ.mp3" />
+	
+	<alph  alphgeez = "ጨ" alphname="chhe" english = "C'he" hebrew = "׳צֵ" arabic = "جي " alphakeys = "Ce" sndurl = "sounds/ጨ.mp3" />
+	<alph  alphgeez = "ጩ" alphname="chhu" english = "C'hoo" hebrew = "צֻ׳" arabic = "جُ" alphakeys = "Cu" sndurl = "sounds/ጩ.mp3" />
+	<alph  alphgeez = "ጪ" alphname="chhi" english = "C'hee" hebrew = "צִ׳" arabic = "جِ " alphakeys = "Ci" sndurl = "sounds/ጪ.mp3" />
+	<alph  alphgeez = "ጫ" alphname="chha" english = "C'ha" hebrew = "צַ׳" arabic = "جَ " alphakeys = "Ca" sndurl = "sounds/ጫ.mp3" />
+	<alph  alphgeez = "ጬ" alphname="chhie" english = "Chie" hebrew = "צֶ׳" arabic = "جِيِ" alphakeys = "Cie" sndurl = "sounds/ጬ.mp3" />
+	<alph  alphgeez = "ጭ" alphname="chh" english = "C'hi" hebrew = "צְ׳" arabic = "جْ " alphakeys = "C" sndurl = "sounds/ጭ.mp3" />
+	<alph  alphgeez = "ጮ" alphname="chho" english = "C'ho" hebrew = "צְ׳" arabic = "جو  " alphakeys = "Co" sndurl = "sounds/ጮ.mp3" />
+	<alph  alphgeez = "ጯ" alphname="chhua" english = "C'hwa" hebrew = "וו'צ" arabic = "جوا" alphakeys = "Cua" sndurl = "sounds/ጯ.mp3" />
+	
+	<alph  alphgeez = "ጰ" alphname="ppe" english = "P'e" hebrew = "פֵ" arabic = "بي " alphakeys = "Pe" sndurl = "sounds/ጰ.mp3" />
+	<alph  alphgeez = "ጱ" alphname="ppu" english = "P'oo" hebrew = "פֻ" arabic = "بُ " alphakeys = "Pu" sndurl = "sounds/ጱ.mp3" />
+	<alph  alphgeez = "ጲ" alphname="ppi" english = "P'ee" hebrew = "פִ" arabic = "بِ " alphakeys = "Pi" sndurl = "sounds/ጲ.mp3" />
+	<alph  alphgeez = "ጳ" alphname="ppa" english = "P'a" hebrew = "פַ" arabic = "بَ " alphakeys = "Pa" sndurl = "sounds/ጳ.mp3" />
+	<alph  alphgeez = "ጴ" alphname="ppie" english = "P'ie" hebrew = "פֶ" arabic = "بِيِ " alphakeys = "Pie" sndurl = "sounds/ጴ.mp3" />
+	<alph  alphgeez = "ጵ" alphname="pp" english = "P'i" hebrew = "פְ" arabic = "بْ " alphakeys = "P" sndurl = "sounds/ጵ.mp3" />
+	<alph  alphgeez = "ጶ" alphname="ppo" english = "P'o" hebrew = "פְ" arabic = "بو" alphakeys = "Po" sndurl = "sounds/ጶ.mp3" />
+	<alph  alphgeez = "ጷ" alphname="ppua" english = "P'wa" hebrew = "פוו" arabic = "Pwa" alphakeys = "Pua" sndurl = "sounds/ጷ.mp3" />
+	
+	<alph  alphgeez = "ጸ" alphname="xe" english = "tse" hebrew = "צֵּ" arabic = "طي " alphakeys = "xe" sndurl = "sounds/ጸ.mp3" />
+	<alph  alphgeez = "ጹ" alphname="xu" english = "tsoo" hebrew = "צֻ" arabic = "طُ " alphakeys = "xu" sndurl = "sounds/ጹ.mp3" />
+	<alph  alphgeez = "ጺ" alphname="xi" english = "tsee" hebrew = "צִ" arabic = "طِ " alphakeys = "xi" sndurl = "sounds/ጺ.mp3" />
+	<alph  alphgeez = "ጻ" alphname="xa" english = "tsa" hebrew = "צַ" arabic = "طَ " alphakeys = "xa" sndurl = "sounds/ጻ.mp3" />
+	<alph  alphgeez = "ጼ" alphname="xie" english = "tsie" hebrew = "צֶ" arabic = "طيي " alphakeys = "xie" sndurl = "sounds/ጼ.mp3" />
+	<alph  alphgeez = "ጽ" alphname="x" english = "tsi" hebrew = "צְ" arabic = "طْ " alphakeys = "x" sndurl = "sounds/ጽ.mp3" />
+	<alph  alphgeez = "ጾ" alphname="xo" english = "tso" hebrew = "צְ" arabic = "طو " alphakeys = "xo" sndurl = "sounds/ጾ.mp3" />
+	<alph  alphgeez = "ጿ" alphname="xua" english = "tswa" hebrew = "צוו" arabic = "طوا " alphakeys = "xua" sndurl = "sounds/ጿ.mp3" />
+	
+	
+	<alph  alphgeez = "ፀ" alphname="x2e" english = "tse" hebrew = "צֵּ" arabic = "طي" alphakeys = "Xe" sndurl = "sounds/ፀ.mp3" />
+	<alph  alphgeez = "ፁ" alphname="x2u" english = "tsoo" hebrew = "צֻּ" arabic = "طُ" alphakeys = "Xu" sndurl = "sounds/ፁ.mp3" />
+	<alph  alphgeez = "ፂ" alphname="x2i" english = "tsee" hebrew = "צִ" arabic = "طِ" alphakeys = "Xi" sndurl = "sounds/ፂ.mp3" />
+	<alph  alphgeez = "ፃ" alphname="x2a" english = "tsa" hebrew = "צַ" arabic = "طَ" alphakeys = "Xa" sndurl = "sounds/ፃ.mp3" />
+	<alph  alphgeez = "ፄ" alphname="x2ie" english = "tsie" hebrew = "צֶ" arabic = "طيي" alphakeys = "Xie" sndurl = "sounds/ፄ.mp3" />
+	<alph  alphgeez = "ፅ" alphname="x2" english = "tsi" hebrew = "צְ" arabic = "طْ" alphakeys = "X" sndurl = "sounds/ፅ.mp3" />
+	<alph  alphgeez = "ፆ" alphname="x2o" english = "tso" hebrew = "צְ" arabic = "طو" alphakeys = "Xo" sndurl = "sounds/ፆ.mp3" />
+		
+	<alph  alphgeez = "ፈ" alphname="fe" english = "fe" hebrew = "פֵ" arabic = "في " alphakeys = "fe" sndurl = "sounds/ፈ.mp3" />
+	<alph  alphgeez = "ፉ" alphname="fu" english = "foo" hebrew = "פֻ" arabic = "فُ  " alphakeys = "fu" sndurl = "sounds/ፉ.mp3" />
+	<alph  alphgeez = "ፊ" alphname="fi" english = "fee" hebrew = "פִ" arabic = "فِ   " alphakeys = "fi" sndurl = "sounds/ፊ.mp3" />
+	<alph  alphgeez = "ፋ" alphname="fa" english = "fa" hebrew = "פַ" arabic = "فَ " alphakeys = "fa" sndurl = "sounds/ፋ.mp3" />
+	<alph  alphgeez = "ፌ" alphname="fie" english = "fie" hebrew = "פֶ" arabic = "فيي   " alphakeys = "fie" sndurl = "sounds/ፌ.mp3" />
+	<alph  alphgeez = "ፍ" alphname="f" english = "fi" hebrew = "פְ" arabic = "fفْ" alphakeys = "f" sndurl = "sounds/ፍ.mp3" />
+	<alph  alphgeez = "ፎ" alphname="fo" english = "fo" hebrew = "פְ" arabic = "فو   " alphakeys = "fo" sndurl = "sounds/ፎ.mp3" />
+	<alph  alphgeez = "ፏ" alphname="fua" english = "fwa" hebrew = "פוו" arabic = "فوا" alphakeys = "fua" sndurl = "sounds/ፏ.mp3" />
+	
+	<alph  alphgeez = "ፐ" alphname="pe" english = "pe" hebrew = "פֵּ" arabic = "بي  " alphakeys = "pe" sndurl = "sounds/ፐ.mp3" />
+	<alph  alphgeez = "ፑ" alphname="pu" english = "poo" hebrew = "פֻּ" arabic = "بُ  " alphakeys = "pu" sndurl = "sounds/ፑ.mp3" />
+	<alph  alphgeez = "ፒ" alphname="pi" english = "pee" hebrew = "פִ" arabic = "بِ   " alphakeys = "pi" sndurl = "sounds/ፒ.mp3" />
+	<alph  alphgeez = "ፓ" alphname="pa" english = "pa" hebrew = "פַּ" arabic = "بَ  " alphakeys = "pa" sndurl = "sounds/ፓ.mp3" />
+	<alph  alphgeez = "ፔ" alphname="pie" english = "pie" hebrew = "פֶ" arabic = "بيي " alphakeys = "pie" sndurl = "sounds/ፔ.mp3" />
+	<alph  alphgeez = "ፕ" alphname="p" english = "pi" hebrew = "פְּ" arabic = "بْ" alphakeys = "p" sndurl = "sounds/ፕ.mp3" />
+	<alph  alphgeez = "ፖ" alphname="po" english = "po" hebrew = "פְּ" arabic = "بو  " alphakeys = "po" sndurl = "sounds/ፖ.mp3" />
+	<alph  alphgeez = "ፗ" alphname="pua" english = "pwa" hebrew = "פּוו" arabic = "بوا" alphakeys = "pua" sndurl = "sounds/ፗ.mp3" />
+	
+	
+	<alph  alphgeez = "ቨ" alphname="ve" english = "ve" hebrew = "וֵ" arabic = "ف " alphakeys = "ve" sndurl = "sounds/ቨ.mp3" />
+	<alph  alphgeez = "ቩ" alphname="vu" english = "voo" hebrew = "וֻ" arabic = "فُ " alphakeys = "vu" sndurl = "sounds/ቩ.mp3" />
+	<alph  alphgeez = "ቪ" alphname="vi" english = "vee" hebrew = "וִ" arabic = "فِ " alphakeys = "vi" sndurl = "sounds/ቪ.mp3" />
+	<alph  alphgeez = "ቫ" alphname="va" english = "va" hebrew = "וַ" arabic = "فَ " alphakeys = "va" sndurl = "sounds/ቫ.mp3" />
+	<alph  alphgeez = "ቬ" alphname="vie" english = "vie" hebrew = "וֶ" arabic = "فيي" alphakeys = "vie" sndurl = "sounds/ቬ.mp3" />
+	<alph  alphgeez = "ቭ" alphname="v" english = "vi" hebrew = "וְ" arabic = " فْ " alphakeys = "v" sndurl = "sounds/ቭ.mp3" />
+	<alph  alphgeez = "ቮ" alphname="vo" english = "vo" hebrew = "וְ" arabic = " فو  " alphakeys = "vo" sndurl = "sounds/ቮ.mp3" />
+	<alph  alphgeez = "ቯ" alphname="vua" english = "vwa" hebrew = "ו" arabic = "فوا" alphakeys = "vua" sndurl = "sounds/ቯ.mp3" />
+	
+	
+<alph  alphgeez = "ቈ" alphname="qwe" english = "Qwe" hebrew = "קֶוו" arabic = "Qwe" alphakeys = "qWe" sndurl = "sounds/ቈ.mp3" />
+<alph  alphgeez = "ቊ" alphname="qwi" english = "Qwee" hebrew = "קֶוו" arabic = "Qwee" alphakeys = "qWi" sndurl = "sounds/ቊ.mp3" />
+<alph  alphgeez = "ቋ" alphname="qwa" english = "Qwa" hebrew = "קֶוו" arabic = "Qwa" alphakeys = "qWa" sndurl = "sounds/ቋ.mp3" />
+<alph  alphgeez = "ቌ" alphname="qwie" english = "Qwie" hebrew = "קֶוו" arabic = "Qwie" alphakeys = "qWie" sndurl = "sounds/ቌ.mp3" />
+<alph  alphgeez = "ቍ" alphname="qw" english = "Qwi" hebrew = "קֶוו" arabic = "Qw" alphakeys = "qW" sndurl = "sounds/ቍ.mp3" />
+	
+<alph  alphgeez = "ቘ" alphname="qhwe" english = "QhWe" hebrew = "קֶוו" arabic = "QWe" alphakeys = "QWe" sndurl = "sounds/ቘ.mp3" />
+<alph  alphgeez = "ቚ" alphname="qhwi" english = "QhWee" hebrew = "קֶוו" arabic = "QWee" alphakeys = "QWi" sndurl = "sounds/ቚ.mp3" />
+<alph  alphgeez = "ቛ" alphname="qhwa" english = "QhWa" hebrew = "קֶוו" arabic = "QWa" alphakeys = "QWa" sndurl = "sounds/ቛ.mp3" />
+<alph  alphgeez = "ቜ" alphname="qhwie" english = "QhWie" hebrew = "קֶוו" arabic = "QWie" alphakeys = "QWie" sndurl = "sounds/ቜ.mp3" />
+<alph  alphgeez = "ቝ" alphname="qhw" english = "QhWi" hebrew = "קֶוו" arabic = "QW" alphakeys = "QW" sndurl = "sounds/ቝ.mp3" />
+	
+<alph  alphgeez = "ኰ" alphname="kwe" english = "kwe" hebrew = "כְוו" arabic = "kwe" alphakeys = "kWe" sndurl = "sounds/ኰ.mp3" />
+<alph  alphgeez = "ኲ" alphname="kwi" english = "kwee" hebrew = "כְוו" arabic = "kwee" alphakeys = "kWi" sndurl = "sounds/ኲ.mp3" />
+<alph  alphgeez = "ኳ" alphname="kwa" english = "kwa" hebrew = "כְוו" arabic = "kwa" alphakeys = "kWa" sndurl = "sounds/ኳ.mp3" />
+<alph  alphgeez = "ኴ" alphname="kwie" english = "kwie" hebrew = "כְוו" arabic = "kwie" alphakeys = "kWie" sndurl = "sounds/ኴ.mp3" />
+<alph  alphgeez = "ኵ" alphname="kw" english = "kwi" hebrew = "כְוו" arabic = "kw" alphakeys = "kW" sndurl = "sounds/ኵ.mp3" />
+	
+<alph  alphgeez = "ዀ" alphname="khwe" english = "Khwe" hebrew = "כְוו" arabic = "Kwe" alphakeys = "KWe" sndurl = "sounds/ዀ.mp3" />
+<alph  alphgeez = "ዂ" alphname="khwi" english = "Khwee" hebrew = "כְוו" arabic = "Kwee" alphakeys = "KWi" sndurl = "sounds/ዂ.mp3" />
+<alph  alphgeez = "ዃ" alphname="khwa" english = "Khwa" hebrew = "כְוו" arabic = "Kwa" alphakeys = "KWa" sndurl = "sounds/ዃ.mp3" />
+<alph  alphgeez = "ዄ" alphname="khwie" english = "Khwie" hebrew = "כְוו" arabic = "Kwie" alphakeys = "KWie" sndurl = "sounds/ዄ.mp3" />
+<alph  alphgeez = "ዅ" alphname="khw" english = "Khwi" hebrew = "כְוו" arabic = "Kw" alphakeys = "KW" sndurl = "sounds/ዅ.mp3" />
+	
+<alph  alphgeez = "ጐ" alphname="gwe" english = "gwe" hebrew = "גְוו" arabic = "gwe" alphakeys = "gWe" sndurl = "sounds/ጐ.mp3" />
+<alph  alphgeez = "ጒ" alphname="gwi" english = "gwee" hebrew = "גְוו" arabic = "gwee" alphakeys = "gWi" sndurl = "sounds/ጒ.mp3" />
+<alph  alphgeez = "ጓ" alphname="gwa" english = "gwa" hebrew = "גְוו" arabic = "gwa" alphakeys = "gWa" sndurl = "sounds/ጓ.mp3" />
+<alph  alphgeez = "ጔ" alphname="gwie" english = "gwie" hebrew = "גְוו" arabic = "gwie" alphakeys = "gWie" sndurl = "sounds/ጔ.mp3" />
+<alph  alphgeez = "ጕ" alphname="gw" english = "gwi" hebrew = "גְוו" arabic = "gw" alphakeys = "gW" sndurl = "sounds/ጕ.mp3" />
+	
+<alph  alphgeez = "ኈ" alphname="h2we" english = "hwe" hebrew = "הְוו" arabic = "hwe" alphakeys = "]We" sndurl = "sounds/ኈ.mp3" />
+<alph  alphgeez = "ኊ" alphname="h2wi" english = "hwee" hebrew = "הְוו" arabic = "hwee" alphakeys = "]Wi" sndurl = "sounds/ኊ.mp3" />
+<alph  alphgeez = "ኋ" alphname="h2wa" english = "hwa" hebrew = "הְוו" arabic = "hwa" alphakeys = "]Wa" sndurl = "sounds/ኋ.mp3" />
+<alph alphgeez = "ኌ" alphname="h2wie" english = "hwie" hebrew = "הְוו" arabic = "hwie" alphakeys = "]Wie" sndurl = "sounds/ኌ.mp3" />
+<alph alphgeez = "ኍ" alphname="h2w" english = "hwi" hebrew = "הְוו" arabic = "hw" alphakeys = "]W" sndurl = "sounds/ኍ.mp3" />
+</alphs>
+	
+	
