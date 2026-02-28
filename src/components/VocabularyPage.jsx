@@ -243,6 +243,15 @@ const VocabularyPage = ({
         </div>
       </div>
 
+      {/* Spacebar instruction */}
+      {isCycling && (
+        <div className="flex justify-center px-4 py-1">
+          <span className={`text-xs font-bold px-3 py-1 rounded ${isCyclePaused ? 'bg-yellow-300 text-gray-800' : 'bg-green-600 text-white'}`}>
+            {isCyclePaused ? '⏸ PAUSED' : '▶ PLAYING'} — Press Space to {isCyclePaused ? 'resume' : 'pause'}
+          </span>
+        </div>
+      )}
+
       {/* Spacer to push content toward center */}
       <div className="flex-1" />
 

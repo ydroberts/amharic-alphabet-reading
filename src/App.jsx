@@ -14,18 +14,13 @@ const AmharicLearningApp = () => {
   const [selectedVowelIndex, setSelectedVowelIndex] = useState(0);
   const [showMobileMenu, setShowMobileMenu] = useState(false);
   const [isPlaying, setIsPlaying] = useState(false);
-  const [isAutoReading, setIsAutoReading] = useState(false);
-  const [isAutoReadingConsonants, setIsAutoReadingConsonants] = useState(false);
   // NEW: Enhanced features states
   const [language, setLanguage] = useState('en'); // en, ar, he, om
-  const [isCycleMode, setIsCycleMode] = useState(false);
   const [showSettings, setShowSettings] = useState(false);
   const [readingSpeed, setReadingSpeed] = useState(1000); // milliseconds
   const [volume, setVolume] = useState(1.0); // 0.0 to 1.0
   const [highlightColor, setHighlightColor] = useState('blue');
   const [showTranscription, setShowTranscription] = useState(true);
-  const [isReading, setIsReading] = useState(false);
-  const [readingState, setReadingState] = useState({ consonantIndex: 0, vowelIndex: 0 });
   // Practice mode states
   const [isPracticing, setIsPracticing] = useState(false);
   const [practiceStep, setPracticeStep] = useState(0);
@@ -152,116 +147,6 @@ const AmharicLearningApp = () => {
     playAudioTTS(word.roman);
   };
 
-  // Auto-reading vowels feature
-  const startAutoReading = () => {
-    if (!selectedCharacter) return;
-    setIsAutoReading(true);
-  };
-
-  const stopAutoReading = () => {
-    setIsAutoReading(false);
-  };
-
-  // Auto-reading consonants feature
-  const startAutoReadingConsonants = () => {
-    setIsAutoReadingConsonants(true);
-  };
-
-  const stopAutoReadingConsonants = () => {
-    setIsAutoReadingConsonants(false);
-  };
-
-  // Enhanced auto-reading with cycle feature
-  useEffect(() => {
-    if (!isReading) return;
-    
-    const timer = setInterval(() => {
-      setReadingState(prevState => {
-        const { consonantIndex, vowelIndex } = prevState;
-        const currentChar = filteredCharacters[consonantIndex];
-
-        if (!currentChar) {
-          setIsReading(false);
-          return { consonantIndex: 0, vowelIndex: 0 };
-        }
-
-        // Play current sound
-        setSelectedCharacter(currentChar);
-        setSelectedVowelIndex(vowelIndex);
-        setSelectedVowel(currentChar.vowelForms[vowelIndex].vowel);
-        playCharacterAudio(currentChar, vowelIndex);
-
-        // Calculate next position
-        const nextVowelIndex = vowelIndex + 1;
-
-        if (nextVowelIndex >= currentChar.vowelForms.length) {
-          // Finished vowel family
-          if (isCycleMode) {
-            // Cycle: restart same consonant
-            return { consonantIndex, vowelIndex: 0 };
-          } else {
-            // Continue: move to next consonant
-            const nextConsonantIndex = consonantIndex + 1;
-            if (nextConsonantIndex >= filteredCharacters.length) {
-              // Finished all consonants
-              setIsReading(false);
-              return { consonantIndex: 0, vowelIndex: 0 };
-            }
-            return { consonantIndex: nextConsonantIndex, vowelIndex: 0 };
-          }
-        } else {
-          // Continue with next vowel in same family
-          return { consonantIndex, vowelIndex: nextVowelIndex };
-        }
-      });
-    }, readingSpeed);
-    
-    return () => clearInterval(timer);
-  }, [isReading, readingSpeed, isCycleMode]);
-
-  // Handle auto-reading progression for consonants
-  useEffect(() => {
-    if (!isAutoReadingConsonants) return;
-    
-    // Start from first consonant
-    let currentIndex = 0;
-    const firstChar = filteredCharacters[0];
-    setSelectedCharacter(firstChar);
-    setSelectedVowelIndex(0);
-    setSelectedVowel('e');
-    playCharacterAudio(firstChar, 0);
-
-    const timer = setInterval(() => {
-      currentIndex = currentIndex + 1;
-
-      // Stop after completing one full cycle (all consonants)
-      if (currentIndex >= filteredCharacters.length) {
-        clearInterval(timer);
-        setIsAutoReadingConsonants(false);
-        // Reset to first consonant
-        const resetChar = filteredCharacters[0];
-        setSelectedCharacter(resetChar);
-        setSelectedVowelIndex(0);
-        setSelectedVowel('e');
-        return;
-      }
-
-      const nextChar = filteredCharacters[currentIndex];
-      setSelectedCharacter(nextChar);
-      setSelectedVowelIndex(0);
-      setSelectedVowel('e');
-      playCharacterAudio(nextChar, 0);
-    }, readingSpeed); // Use settings speed
-    
-    return () => clearInterval(timer);
-  }, [isAutoReadingConsonants, readingSpeed]);
-
-  // Stop vowel auto-reading when character changes (manual selection by user)
-  useEffect(() => {
-    if (isAutoReading && !isAutoReadingConsonants) {
-      stopAutoReading();
-    }
-  }, [selectedCharacter?.id]);
 
   // === Practice Mode Functions ===
   const startPractice = async () => {
@@ -742,32 +627,6 @@ const AmharicLearningApp = () => {
         <div className="flex items-center gap-2 flex-wrap">
           <button
             onClick={() => {
-              if (isReading) {
-                setIsReading(false);
-              } else {
-                const currentIndex = filteredCharacters.findIndex(c => c.id === selectedCharacter?.id);
-                setReadingState({ consonantIndex: Math.max(0, currentIndex), vowelIndex: 0 });
-                setIsReading(true);
-              }
-            }}
-            className="text-white px-4 py-2 rounded-lg transition flex items-center gap-2 font-medium shadow"
-            style={{ backgroundColor: '#6B4E0A' }}
-          >
-            {isReading ? '⏸️' : '▶️'} {t('read', language)}
-          </button>
-
-          <label className="flex items-center gap-2 border-2 rounded-lg px-3 py-2 cursor-pointer transition" style={{ borderColor: '#8B6914', backgroundColor: '#F5DEB3' }}>
-            <input
-              type="checkbox"
-              checked={isCycleMode}
-              onChange={(e) => setIsCycleMode(e.target.checked)}
-              className="cursor-pointer w-4 h-4"
-            />
-            <span className="text-sm font-medium text-gray-800">{t('cycle', language)}</span>
-          </label>
-
-          <button
-            onClick={() => {
               if (isCycling) {
                 stopCycle();
               } else {
@@ -785,7 +644,7 @@ const AmharicLearningApp = () => {
 
           {isCycling && (
             <span className={`text-xs font-bold px-2 py-1 rounded ${isCyclePaused ? 'bg-yellow-300 text-gray-800' : 'bg-green-600 text-white'}`}>
-              {isCyclePaused ? '⏸ PAUSED (Space)' : '▶ PLAYING (Space to pause)'}
+              {isCyclePaused ? '⏸ PAUSED' : '▶ PLAYING'} — Press Space to {isCyclePaused ? 'resume' : 'pause'}
             </span>
           )}
 
@@ -882,39 +741,6 @@ const AmharicLearningApp = () => {
                 </svg>
               </button>
 
-              {/* Auto Read Consonants Button */}
-              <button
-                onClick={() => {
-                  if (isAutoReadingConsonants) {
-                    stopAutoReadingConsonants();
-                  } else {
-                    startAutoReadingConsonants();
-                  }
-                }}
-                className={`font-bold py-2 px-3 rounded-lg transition-all duration-200 flex items-center justify-center gap-1 text-sm ${
-                  isAutoReadingConsonants
-                    ? 'bg-red-500 hover:bg-red-600 text-white'
-                    : 'bg-green-600 hover:bg-green-700 text-white'
-                }`}
-                title={isAutoReadingConsonants ? "Stop reading consonants" : "Auto-read all consonants"}
-              >
-                {isAutoReadingConsonants ? (
-                  <>
-                    <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 24 24">
-                      <rect x="6" y="4" width="4" height="16" />
-                      <rect x="14" y="4" width="4" height="16" />
-                    </svg>
-                    Stop
-                  </>
-                ) : (
-                  <>
-                    <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 24 24">
-                      <path d="M8 5v14l11-7z" />
-                    </svg>
-                    Read
-                  </>
-                )}
-              </button>
             </div>
           </div>
 
