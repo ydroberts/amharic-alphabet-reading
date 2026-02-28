@@ -34,12 +34,14 @@ const NavBar = ({ language, onFeedbackClick }) => {
         <div className="flex-1 flex justify-end">
           <button
             onClick={onFeedbackClick}
-            className="p-2 rounded text-yellow-100 hover:bg-yellow-800 hover:text-white transition-all"
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full font-bold text-sm transition-all hover:scale-105 hover:shadow-lg"
+            style={{ backgroundColor: '#FCDD09', color: '#6B4E0A' }}
             title={t('feedback', language)}
           >
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
               <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" />
             </svg>
+            {t('feedback', language)}
           </button>
         </div>
       </div>

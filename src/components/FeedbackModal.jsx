@@ -73,14 +73,16 @@ const FeedbackModal = ({ language, onClose }) => {
               placeholder={t('feedbackName', language)}
               value={name}
               onChange={(e) => setName(e.target.value)}
+              required
               className="w-full px-3 py-2 border rounded focus:outline-none focus:ring-2"
-              style={{ borderColor: '#8B6914', focusRingColor: '#6B4E0A' }}
+              style={{ borderColor: '#8B6914' }}
             />
             <input
               type="email"
               placeholder={t('feedbackEmail', language)}
               value={email}
               onChange={(e) => setEmail(e.target.value)}
+              required
               className="w-full px-3 py-2 border rounded focus:outline-none focus:ring-2"
               style={{ borderColor: '#8B6914' }}
             />
