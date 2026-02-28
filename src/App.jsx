@@ -4,9 +4,11 @@ import { Routes, Route, useNavigate, useLocation } from 'react-router-dom';
 import NavBar from './components/NavBar';
 import VowelsPage from './components/VowelsPage';
 import VocabularyPage from './components/VocabularyPage';
+import WelcomeScreen from './components/WelcomeScreen';
 import { romanizationMap, getTranscription, t, characters, lessons, vocabulary } from './data/alphabetData';
 
 const AmharicLearningApp = () => {
+  const [showWelcome, setShowWelcome] = useState(true);
   const [screen, setScreen] = useState('learning');
   const [selectedLesson, setSelectedLesson] = useState(lessons[0].id);
   const [selectedVowel, setSelectedVowel] = useState('e');
@@ -563,6 +565,10 @@ const AmharicLearningApp = () => {
       </div>
     </div>
   );
+
+  if (showWelcome) {
+    return <WelcomeScreen onEnter={() => setShowWelcome(false)} />;
+  }
 
   return (
     <div className="h-screen flex flex-col" style={{ backgroundColor: '#D4A017' }}>
