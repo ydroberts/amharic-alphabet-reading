@@ -5,6 +5,7 @@ import NavBar from './components/NavBar';
 import VowelsPage from './components/VowelsPage';
 import VocabularyPage from './components/VocabularyPage';
 import WelcomeScreen from './components/WelcomeScreen';
+import FeedbackModal from './components/FeedbackModal';
 import { romanizationMap, getTranscription, t, characters, lessons, vocabulary } from './data/alphabetData';
 
 const AmharicLearningApp = () => {
@@ -19,6 +20,7 @@ const AmharicLearningApp = () => {
   // NEW: Enhanced features states
   const [language, setLanguage] = useState('en'); // en, ar, he, om
   const [showSettings, setShowSettings] = useState(false);
+  const [showFeedback, setShowFeedback] = useState(false);
   const [readingSpeed, setReadingSpeed] = useState(1000); // milliseconds
   const [volume, setVolume] = useState(1.0); // 0.0 to 1.0
   const [highlightColor, setHighlightColor] = useState('blue');
@@ -572,7 +574,7 @@ const AmharicLearningApp = () => {
 
   return (
     <div className="h-screen flex flex-col" style={{ backgroundColor: '#D4A017' }}>
-      <NavBar language={language} />
+      <NavBar language={language} onFeedbackClick={() => setShowFeedback(true)} />
       <Routes>
         <Route path="/vowels" element={
           <VowelsPage
@@ -908,6 +910,7 @@ const AmharicLearningApp = () => {
 
       {/* Settings Panel */}
       {showSettings && <SettingsPanel />}
+      {showFeedback && <FeedbackModal language={language} onClose={() => setShowFeedback(false)} />}
     </div>
   );
 };
