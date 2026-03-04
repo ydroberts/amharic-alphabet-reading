@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="28" fill="#2E7D32"/>
+  <g transform="translate(64,64)">
+    <rect x="-36" y="-8" width="30" height="30" rx="4" fill="none" stroke="white" stroke-width="4"/>
+    <text x="-21" y="16" text-anchor="middle" fill="white" font-size="20" font-weight="bold" font-family="sans-serif">ሀ</text>
+    <rect x="-3" y="-8" width="30" height="30" rx="4" fill="none" stroke="white" stroke-width="4"/>
+    <text x="12" y="16" text-anchor="middle" fill="white" font-size="20" font-weight="bold" font-family="sans-serif">ለ</text>
+    <rect x="-20" y="-36" width="30" height="30" rx="4" fill="none" stroke="white" stroke-width="4"/>
+    <text x="-5" y="-12" text-anchor="middle" fill="white" font-size="20" font-weight="bold" font-family="sans-serif">ሐ</text>
+  </g>
+</svg>
